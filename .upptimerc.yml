@@ -3,14 +3,36 @@ owner: Edinburgh-College-of-Art # Your GitHub organization or username, where th
 repo: DI-upptime # The name of this repository
 
 sites:
+  - name: Design Informatics
+    url: https://designinformatics.org
   - name: A Token Gesture
     url: https://nft.inspace.ed.ac.uk
+  - name: A Token Gesture (DI)
+    url: https://nft.designinformatics.org
+  - name: GeoCoin
+    url: https://geocoin.site
+  - name: Ticket Designer
+    url: https://ticket-designer.designinformatics.org
+  - name: Data Laundering
+    url: https://data-laundering.designinformatics.org
+  - name: VizBlocks Website
+    url: https://vizblocks.creativeinformatics.org
+  - name: Flow Ctrl
+    url: https://flow.creativeinformatics.org
+  - name: VisTools
+    url: https://vistools.net
+  - name: TNRO
+    url: https://observatory.newreal.cc
+  - name: AWEN Website
+    url: https://www.awen.earth
+  - name: AWEN App
+    url: https://walk.awen.earth
+  - name: TRoll
+    url: https://toiletroll.chrisspeed.net
+  
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.designinformatics.org
-  # baseUrl: /your-repo-name
   logoUrl: https://www.designinformatics.org/wp-content/themes/design-info/resources/assets/images/di_logo.png
   name: DI Uptime
   navbar:
