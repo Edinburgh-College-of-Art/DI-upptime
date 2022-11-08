@@ -34,10 +34,7 @@ sites:
 status-website:
   cname: uptime.designinformatics.org
   logoUrl: https://www.designinformatics.org/wp-content/themes/design-info/resources/assets/images/di_logo.png
-  name: DI Uptime
-  navbar:
-    - title: Status
-      href: /
+  name: Uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
