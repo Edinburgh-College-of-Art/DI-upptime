@@ -170,19 +170,19 @@
     "url": "https://observatory.newreal.cc",
     "icon": "https://icons.duckduckgo.com/ip3/observatory.newreal.cc.ico",
     "slug": "tnro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 424,
-    "timeWeek": 457,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
+    "time": 483,
+    "timeDay": 474,
+    "timeWeek": 466,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-11-17": 0
+      "2022-11-17": 125
     }
   },
   {
