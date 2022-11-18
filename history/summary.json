@@ -22,18 +22,19 @@
     "url": "https://nft.inspace.ed.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/nft.inspace.ed.ac.uk.ico",
     "slug": "a-token-gesture",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1240,
     "timeDay": 917,
     "timeWeek": 1036,
     "timeMonth": 1240,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2022-11-18": 3,
       "2022-11-07": 3
     }
   },
@@ -78,36 +79,40 @@
     "url": "https://ticket-designer.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/ticket-designer.designinformatics.org.ico",
     "slug": "ticket-designer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 430,
     "timeDay": 280,
     "timeWeek": 415,
     "timeMonth": 430,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-18": 2
+    }
   },
   {
     "name": "Data Laundering",
     "url": "https://data-laundering.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/data-laundering.designinformatics.org.ico",
     "slug": "data-laundering",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 460,
     "timeDay": 470,
     "timeWeek": 454,
     "timeMonth": 460,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-18": 2
+    }
   },
   {
     "name": "VizBlocks Website",
@@ -132,10 +137,10 @@
     "url": "https://flow.creativeinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/flow.creativeinformatics.org.ico",
     "slug": "flow-ctrl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 562,
@@ -144,6 +149,7 @@
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2022-11-18": 1,
       "2022-11-08": 26
     }
   },
@@ -171,13 +177,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/observatory.newreal.cc.ico",
     "slug": "tnro",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "91.29%",
+    "uptime": "99.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 472,
-    "timeDay": 427,
+    "timeDay": 330,
     "timeWeek": 461,
     "timeMonth": 472,
     "timeYear": 472,
@@ -190,10 +196,10 @@
     "url": "https://www.awen.earth",
     "icon": "https://icons.duckduckgo.com/ip3/www.awen.earth.ico",
     "slug": "awen-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
@@ -201,16 +207,18 @@
     "timeWeek": 557,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-18": 1
+    }
   },
   {
     "name": "AWEN App",
     "url": "https://walk.awen.earth",
     "icon": "https://icons.duckduckgo.com/ip3/walk.awen.earth.ico",
     "slug": "awen-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +227,9 @@
     "timeWeek": 502,
     "timeMonth": 535,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-18": 0
+    }
   },
   {
     "name": "TRoll",
