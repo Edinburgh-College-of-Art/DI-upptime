@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/flow.creativeinformatics.org.ico",
     "slug": "flow-ctrl",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 564,
     "timeDay": 570,
     "timeWeek": 554,
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/observatory.newreal.cc.ico",
     "slug": "tnro",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 430,
     "timeDay": 342,
     "timeWeek": 381,
@@ -239,9 +239,9 @@
     "url": "https://toiletroll.chrisspeed.net",
     "icon": "https://icons.duckduckgo.com/ip3/toiletroll.chrisspeed.net.ico",
     "slug": "t-roll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,6 +250,8 @@
     "timeWeek": 1211,
     "timeMonth": 1042,
     "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   }
 ]
