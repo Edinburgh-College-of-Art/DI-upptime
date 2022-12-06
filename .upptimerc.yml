@@ -5,6 +5,8 @@ repo: DI-upptime # The name of this repository
 sites:
   - name: Design Informatics
     url: https://designinformatics.org
+  - name: FIRE App
+    url: https://fire-app.designinformatics.org
   - name: A Token Gesture
     url: https://nft.inspace.ed.ac.uk
   - name: A Token Gesture (DI)
