@@ -197,9 +197,9 @@
     "url": "https://vistools.net",
     "icon": "https://icons.duckduckgo.com/ip3/vistools.net.ico",
     "slug": "vis-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +208,9 @@
     "timeWeek": 6516,
     "timeMonth": 6153,
     "timeYear": 6627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 0
+    }
   },
   {
     "name": "TNRO",
