@@ -197,19 +197,19 @@
     "url": "https://vistools.net",
     "icon": "https://icons.duckduckgo.com/ip3/vistools.net.ico",
     "slug": "vis-tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6627,
-    "timeDay": 6840,
-    "timeWeek": 6516,
-    "timeMonth": 6153,
-    "timeYear": 6627,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 6663,
+    "timeDay": 8029,
+    "timeWeek": 6853,
+    "timeMonth": 6248,
+    "timeYear": 6663,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 22
     }
   },
   {
