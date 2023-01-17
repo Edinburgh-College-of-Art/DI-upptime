@@ -24,47 +24,51 @@
     "url": "https://ripple.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/ripple.designinformatics.org.ico",
     "slug": "ripple-framework",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 449,
     "timeDay": 495,
     "timeWeek": 462,
     "timeMonth": 430,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-17": 5
+    }
   },
   {
     "name": "FIRE App",
     "url": "https://fire-app.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/fire-app.designinformatics.org.ico",
     "slug": "fire-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 441,
     "timeDay": 638,
     "timeWeek": 460,
     "timeMonth": 432,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-17": 5
+    }
   },
   {
     "name": "A Token Gesture",
     "url": "https://nft.inspace.ed.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/nft.inspace.ed.ac.uk.ico",
     "slug": "a-token-gesture",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1043,
     "timeDay": 692,
@@ -72,6 +76,7 @@
     "timeMonth": 1043,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2023-01-17": 4,
       "2022-11-24": 15,
       "2022-11-18": 10,
       "2022-11-07": 3
@@ -82,18 +87,20 @@
     "url": "https://nft.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/nft.designinformatics.org.ico",
     "slug": "a-token-gesture-di",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 534,
     "timeWeek": 495,
     "timeMonth": 469,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-17": 4
+    }
   },
   {
     "name": "GeoCoin",
@@ -118,11 +125,11 @@
     "url": "https://ticket-designer.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/ticket-designer.designinformatics.org.ico",
     "slug": "ticket-designer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 441,
     "timeDay": 504,
@@ -130,6 +137,7 @@
     "timeMonth": 423,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2023-01-17": 3,
       "2022-11-18": 9
     }
   },
@@ -138,11 +146,11 @@
     "url": "https://data-laundering.designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/data-laundering.designinformatics.org.ico",
     "slug": "data-laundering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 425,
     "timeDay": 500,
@@ -150,6 +158,7 @@
     "timeMonth": 418,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2023-01-17": 3,
       "2022-11-18": 9
     }
   },
@@ -176,18 +185,19 @@
     "url": "https://flow.creativeinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/flow.creativeinformatics.org.ico",
     "slug": "flow-ctrl",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 578,
     "timeDay": 653,
     "timeWeek": 600,
     "timeMonth": 583,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2023-01-17": 2,
       "2022-11-18": 9,
       "2022-11-08": 26
     }
@@ -217,10 +227,10 @@
     "url": "https://observatory.newreal.cc",
     "icon": "https://icons.duckduckgo.com/ip3/observatory.newreal.cc.ico",
     "slug": "tnro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 437,
@@ -229,6 +239,7 @@
     "timeMonth": 432,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2023-01-17": 1,
       "2022-11-17": 125
     }
   },
@@ -237,10 +248,10 @@
     "url": "https://www.awen.earth",
     "icon": "https://icons.duckduckgo.com/ip3/www.awen.earth.ico",
     "slug": "awen-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 546,
@@ -249,6 +260,7 @@
     "timeMonth": 537,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2023-01-17": 1,
       "2022-11-18": 8
     }
   },
@@ -257,9 +269,9 @@
     "url": "https://walk.awen.earth",
     "icon": "https://icons.duckduckgo.com/ip3/walk.awen.earth.ico",
     "slug": "awen-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -269,6 +281,7 @@
     "timeMonth": 569,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2023-01-17": 0,
       "2022-11-18": 8
     }
   },
