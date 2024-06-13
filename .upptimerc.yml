@@ -33,6 +33,10 @@ sites:
     url: https://walk.awen.earth
   - name: TRoll
     url: https://toiletroll.chrisspeed.net
+  - name: SHAW-dev
+    url: https://shaw-dev.designinformatics.org
+  - name: SHAW-prod
+    url: https://shaw.designinformatics.org
   
 
 status-website:
