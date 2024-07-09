@@ -1,7 +1,7 @@
 url: https://shaw-dev.designinformatics.org
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2024-07-08T23:13:51.217Z
+status: down
+code: 502
+responseTime: 480
+lastUpdated: 2024-07-09T15:32:53.480Z
 startTime: 2024-06-13T20:32:25.834Z
 generator: Upptime <https://github.com/upptime/upptime>
