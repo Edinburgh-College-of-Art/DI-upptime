@@ -17,12 +17,8 @@ sites:
     url: https://geocoin.designinformatics.org
   - name: Ticket Designer
     url: https://ticket-designer.designinformatics.org
-  - name: Data Laundering
-    url: https://data-laundering.designinformatics.org
   - name: VizBlocks Website
     url: https://vizblocks.creativeinformatics.org
-  - name: Flow Ctrl
-    url: https://flow.creativeinformatics.org
   - name: VisTools
     url: https://vistools.net
   - name: TNRO
@@ -33,10 +29,12 @@ sites:
     url: https://walk.awen.earth
   - name: TRoll
     url: https://toiletroll.chrisspeed.net
-  - name: SHAW-dev
-    url: https://shaw-dev.designinformatics.org
-  - name: SHAW-prod
-    url: https://shaw.designinformatics.org
+  - name: Ripple
+    url: https://ripple.designinformatics.org
+  - name: ORA API
+    url: https://ora-api.designinformatics.org
+  - name: CDA
+    url: https://cda.designinformatics.org
   
 
 status-website:
