@@ -6,17 +6,16 @@
     "slug": "design-informatics",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.69%",
     "time": 2998,
     "timeDay": 2744,
     "timeWeek": 3629,
     "timeMonth": 3066,
     "timeYear": 2919,
     "dailyMinutesDown": {
-      "2025-09-13": 10,
       "2025-09-12": 27,
       "2025-09-10": 24,
       "2025-09-03": 18,
@@ -81,7 +80,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.57%",
+    "uptimeYear": "54.58%",
     "time": 482,
     "timeDay": 597,
     "timeWeek": 502,
@@ -253,8 +252,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -284,7 +282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nft.designinformatics.org.ico",
     "slug": "a-token-gesture-di",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -392,18 +390,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vistools.net.ico",
     "slug": "vis-tools",
     "status": "down",
-    "uptime": "79.95%",
+    "uptime": "79.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.58%",
+    "uptimeYear": "43.56%",
     "time": 7373,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7887,
     "dailyMinutesDown": {
-      "2025-09-13": 1438,
+      "2025-09-14": 59,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -773,7 +772,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-13": 1438,
+      "2025-09-14": 59,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -1136,8 +1136,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
