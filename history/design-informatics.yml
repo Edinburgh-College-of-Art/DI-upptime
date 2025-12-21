@@ -1,7 +1,7 @@
 url: https://designinformatics.org
-status: up
-code: 200
-responseTime: 1484
-lastUpdated: 2025-12-21T14:35:41.027Z
+status: down
+code: 415
+responseTime: 600
+lastUpdated: 2025-12-21T14:57:09.749Z
 startTime: 2022-11-07T17:52:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
