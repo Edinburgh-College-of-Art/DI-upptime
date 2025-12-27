@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fire-app.designinformatics.org.ico",
     "slug": "fire-app",
     "status": "down",
-    "uptime": "68.76%",
+    "uptime": "68.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -110,7 +110,8 @@
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-12-26": 1438,
+      "2025-12-27": 62,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -208,8 +209,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -355,18 +355,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vistools.net.ico",
     "slug": "vis-tools",
     "status": "down",
-    "uptime": "72.69%",
+    "uptime": "72.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.08%",
+    "uptimeYear": "15.07%",
     "time": 7725,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7674,
     "dailyMinutesDown": {
-      "2025-12-26": 1438,
+      "2025-12-27": 62,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -688,7 +689,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.69%",
+    "uptimeYear": "75.71%",
     "time": 546,
     "timeDay": 438,
     "timeWeek": 562,
@@ -784,8 +785,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -794,7 +794,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.awen.earth.ico",
     "slug": "awen-website",
     "status": "down",
-    "uptime": "42.34%",
+    "uptime": "42.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -805,7 +805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 1438,
+      "2025-12-27": 62,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -1168,8 +1169,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
