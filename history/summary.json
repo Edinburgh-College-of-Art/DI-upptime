@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "96.05%",
-    "uptimeYear": "99.23%",
-    "time": 2545,
+    "uptime": "99.73%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "99.22%",
+    "time": 2546,
     "timeDay": 933,
     "timeWeek": 1069,
     "timeMonth": 1436,
-    "timeYear": 2420,
+    "timeYear": 2421,
     "dailyMinutesDown": {
-      "2026-01-04": 2,
+      "2026-01-05": 71,
+      "2026-01-04": 4,
       "2026-01-01": 33,
       "2025-12-30": 19,
       "2025-12-29": 50,
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fire-app.designinformatics.org.ico",
     "slug": "fire-app",
     "status": "down",
-    "uptime": "68.21%",
+    "uptime": "68.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -116,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2026-01-04": 1438,
+      "2026-01-05": 71,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -214,8 +216,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -270,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoin.designinformatics.org.ico",
     "slug": "geo-coin",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -365,14 +366,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.62%",
+    "uptimeYear": "12.60%",
     "time": 7770,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7855,
     "dailyMinutesDown": {
-      "2026-01-04": 1438,
+      "2026-01-05": 71,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -703,7 +705,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.16%",
+    "uptimeYear": "78.17%",
     "time": 546,
     "timeDay": 375,
     "timeWeek": 449,
@@ -790,8 +792,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -800,7 +801,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.awen.earth.ico",
     "slug": "awen-website",
     "status": "down",
-    "uptime": "42.01%",
+    "uptime": "42.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -811,7 +812,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-04": 1438,
+      "2026-01-05": 71,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -1174,8 +1176,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
