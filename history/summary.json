@@ -6,17 +6,17 @@
     "slug": "design-informatics",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "95.45%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "99.15%",
     "time": 2472,
     "timeDay": 978,
-    "timeWeek": 1020,
+    "timeWeek": 1033,
     "timeMonth": 1215,
     "timeYear": 2348,
     "dailyMinutesDown": {
-      "2026-01-11": 29,
+      "2026-01-11": 21,
       "2026-01-10": 55,
       "2026-01-09": 117,
       "2026-01-06": 128,
@@ -112,9 +112,9 @@
     "status": "up",
     "uptime": "68.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "47.31%",
-    "uptimeMonth": "8.98%",
-    "uptimeYear": "74.81%",
+    "uptimeWeek": "48.38%",
+    "uptimeMonth": "9.23%",
+    "uptimeYear": "74.83%",
     "time": 486,
     "timeDay": 673,
     "timeWeek": 489,
@@ -216,8 +216,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -363,18 +362,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vistools.net.ico",
     "slug": "vis-tools",
     "status": "down",
-    "uptime": "71.69%",
+    "uptime": "71.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.71%",
+    "uptimeYear": "10.69%",
     "time": 7825,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8012,
     "dailyMinutesDown": {
-      "2026-01-11": 1400,
+      "2026-01-12": 69,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -712,11 +712,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.07%",
+    "uptimeYear": "80.09%",
     "time": 545,
     "timeDay": 597,
     "timeWeek": 479,
-    "timeMonth": 490,
+    "timeMonth": 495,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-05-31": 28,
@@ -792,8 +792,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -813,7 +812,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 1401,
+      "2026-01-12": 69,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1176,8 +1176,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -1194,7 +1193,7 @@
     "time": 568,
     "timeDay": 498,
     "timeWeek": 583,
-    "timeMonth": 541,
+    "timeMonth": 549,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-11-19": 790,
@@ -1282,11 +1281,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cda.designinformatics.org.ico",
     "slug": "cda",
     "status": "up",
-    "uptime": "93.38%",
+    "uptime": "93.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.38%",
+    "uptimeYear": "93.39%",
     "time": 456,
     "timeDay": 487,
     "timeWeek": 529,
