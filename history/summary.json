@@ -6,14 +6,14 @@
     "slug": "design-informatics",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.38%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.21%",
     "time": 2277,
-    "timeDay": 1282,
+    "timeDay": 1422,
     "timeWeek": 1095,
-    "timeMonth": 1096,
+    "timeMonth": 1100,
     "timeYear": 2206,
     "dailyMinutesDown": {
       "2026-02-04": 233,
@@ -109,8 +109,8 @@
     "uptime": "68.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.24%",
-    "uptimeYear": "81.67%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "81.68%",
     "time": 493,
     "timeDay": 1493,
     "timeWeek": 733,
@@ -187,8 +187,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -339,14 +338,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.85%",
+    "uptimeYear": "3.84%",
     "time": 7879,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8214,
     "dailyMinutesDown": {
-      "2026-02-05": 1435,
+      "2026-02-06": 76,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -705,11 +705,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/observatory.newreal.cc.ico",
     "slug": "tnro",
     "status": "up",
-    "uptime": "89.82%",
+    "uptime": "89.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.93%",
+    "uptimeYear": "86.94%",
     "time": 473,
     "timeDay": 566,
     "timeWeek": 517,
@@ -764,8 +764,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -785,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 1435,
+      "2026-02-06": 76,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -1148,8 +1148,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -1255,11 +1254,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cda.designinformatics.org.ico",
     "slug": "cda",
     "status": "up",
-    "uptime": "93.86%",
+    "uptime": "93.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.86%",
+    "uptimeYear": "93.87%",
     "time": 458,
     "timeDay": 1150,
     "timeWeek": 573,
