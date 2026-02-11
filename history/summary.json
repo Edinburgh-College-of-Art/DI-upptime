@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "95.29%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.74%",
+    "uptimeDay": "89.15%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.16%",
     "time": 2245,
     "timeDay": 915,
-    "timeWeek": 968,
+    "timeWeek": 992,
     "timeMonth": 1097,
     "timeYear": 2173,
     "dailyMinutesDown": {
+      "2026-02-11": 88,
       "2026-02-10": 68,
       "2026-02-08": 162,
       "2026-02-06": 114,
@@ -103,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fire-app.designinformatics.org.ico",
     "slug": "fire-app",
     "status": "up",
-    "uptime": "68.90%",
+    "uptime": "68.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.04%",
+    "uptimeYear": "83.06%",
     "time": 495,
     "timeDay": 661,
     "timeWeek": 765,
@@ -179,8 +180,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
-      "2025-02-12": 1440,
-      "2025-02-11": 1440
+      "2025-02-12": 1440
     }
   },
   {
@@ -331,13 +331,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.48%",
+    "uptimeYear": "2.46%",
     "time": 7893,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7695,
     "dailyMinutesDown": {
+      "2026-02-11": 88,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -706,7 +707,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.30%",
+    "uptimeYear": "88.31%",
     "time": 474,
     "timeDay": 509,
     "timeWeek": 519,
@@ -756,8 +757,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
-      "2025-02-12": 1440,
-      "2025-02-11": 1440
+      "2025-02-12": 1440
     }
   },
   {
@@ -777,6 +777,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-02-11": 88,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -1140,8 +1141,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
-      "2025-02-12": 1440,
-      "2025-02-11": 1440
+      "2025-02-12": 1440
     }
   },
   {
