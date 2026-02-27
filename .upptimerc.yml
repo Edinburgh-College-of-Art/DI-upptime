@@ -33,6 +33,12 @@ sites:
     url: https://ripple.designinformatics.org
   - name: ORA API
     url: https://ora-api.designinformatics.org
+  - name: ORAgen
+    url: https://oragen.designinformatics.org
+  - name: ORAgen Fables
+    url: https://oragen-fables.designinformatics.org
+  - name: DSD Playbook
+    url: https://playbook.designinformatics.org
   - name: CDA
     url: https://cda.designinformatics.org
   
