@@ -4,19 +4,19 @@
     "url": "https://designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.09%",
-    "time": 1999,
-    "timeDay": 889,
-    "timeWeek": 960,
-    "timeMonth": 1046,
-    "timeYear": 1896,
+    "uptimeDay": "90.85%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "99.08%",
+    "time": 1997,
+    "timeDay": 951,
+    "timeWeek": 970,
+    "timeMonth": 1047,
+    "timeYear": 1893,
     "dailyMinutesDown": {
-      "2026-04-01": 90,
+      "2026-04-01": 132,
       "2026-03-30": 102,
       "2026-03-29": 102,
       "2026-03-28": 64,
@@ -110,7 +110,7 @@
     "timeDay": 472,
     "timeWeek": 454,
     "timeMonth": 474,
-    "timeYear": 501,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2026-01-08": 951,
       "2026-01-07": 1440,
@@ -179,7 +179,7 @@
     "timeDay": 748,
     "timeWeek": 880,
     "timeMonth": 889,
-    "timeYear": 841,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2025-11-20": 73,
       "2025-11-18": 589,
@@ -202,7 +202,7 @@
     "timeDay": 320,
     "timeWeek": 944,
     "timeMonth": 572,
-    "timeYear": 504,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2026-02-05": 20,
       "2025-11-20": 41,
@@ -224,7 +224,7 @@
     "timeDay": 668,
     "timeWeek": 1472,
     "timeMonth": 990,
-    "timeYear": 1081,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-10-22": 21,
       "2025-07-09": 22
@@ -245,7 +245,7 @@
     "timeDay": 472,
     "timeWeek": 433,
     "timeMonth": 442,
-    "timeYear": 482,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2025-11-20": 82,
       "2025-11-18": 599,
@@ -268,7 +268,7 @@
     "timeDay": 253,
     "timeWeek": 235,
     "timeMonth": 232,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -1009,7 +1009,7 @@
     "timeDay": 319,
     "timeWeek": 501,
     "timeMonth": 494,
-    "timeYear": 577,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-11-19": 790,
       "2025-11-18": 1440,
