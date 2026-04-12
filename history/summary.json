@@ -4,19 +4,20 @@
     "url": "https://designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "99.04%",
-    "time": 2016,
-    "timeDay": 1517,
-    "timeWeek": 1018,
-    "timeMonth": 1023,
+    "uptimeDay": "88.65%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "99.03%",
+    "time": 2015,
+    "timeDay": 1535,
+    "timeWeek": 1039,
+    "timeMonth": 1030,
     "timeYear": 1850,
     "dailyMinutesDown": {
-      "2026-04-11": 83,
+      "2026-04-12": 69,
+      "2026-04-11": 94,
       "2026-04-10": 255,
       "2026-04-08": 69,
       "2026-04-07": 205,
@@ -278,7 +279,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.86%",
+    "uptimeYear": "11.88%",
     "time": 5886,
     "timeDay": 1033,
     "timeWeek": 962,
@@ -605,8 +606,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
@@ -640,7 +640,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.86%",
+    "uptimeYear": "11.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -967,8 +967,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
