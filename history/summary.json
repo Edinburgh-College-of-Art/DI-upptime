@@ -4,16 +4,16 @@
     "url": "https://designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "80.84%",
+    "uptimeDay": "79.97%",
     "uptimeWeek": "67.37%",
-    "uptimeMonth": "88.61%",
+    "uptimeMonth": "88.58%",
     "uptimeYear": "98.26%",
-    "time": 1767,
-    "timeDay": 650,
-    "timeWeek": 884,
-    "timeMonth": 1003,
+    "time": 1765,
+    "timeDay": 824,
+    "timeWeek": 899,
+    "timeMonth": 1008,
     "timeYear": 1655,
     "dailyMinutesDown": {
       "2026-02-19": 53,
@@ -75,7 +75,7 @@
       "2026-06-06": 328,
       "2026-06-07": 326,
       "2026-06-08": 153,
-      "2026-06-09": 129
+      "2026-06-09": 141
     }
   },
   {
