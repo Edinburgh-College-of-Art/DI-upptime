@@ -6,12 +6,12 @@
     "slug": "design-informatics",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "93.42%",
-    "uptimeMonth": "85.10%",
-    "uptimeYear": "97.25%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "84.99%",
+    "uptimeYear": "97.24%",
     "time": 1660,
-    "timeDay": 881,
+    "timeDay": 824,
     "timeWeek": 888,
     "timeMonth": 945,
     "timeYear": 1533,
@@ -75,7 +75,7 @@
       "2026-07-09": 67,
       "2026-07-10": 64,
       "2026-07-11": 218,
-      "2026-07-12": 0
+      "2026-07-12": 50
     }
   },
   {
@@ -288,7 +288,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.81%",
+    "uptimeYear": "36.82%",
     "time": 1174,
     "timeDay": 800,
     "timeWeek": 1000,
