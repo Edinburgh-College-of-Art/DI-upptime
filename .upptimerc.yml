@@ -29,8 +29,6 @@ sites:
     url: https://walk.awen.earth
   - name: TRoll
     url: https://toiletroll.chrisspeed.net
-  - name: Ripple
-    url: https://ripple.designinformatics.org
   - name: ORA API
     url: https://ora-api.designinformatics.org
   - name: ORAgen
@@ -41,11 +39,15 @@ sites:
     url: https://playbook.designinformatics.org
   - name: CDA
     url: https://cda.designinformatics.org
+  - name: Command Prompt
+    url: https://cmd-prompt.designinformatics.org
+  - name: City Screens Remote
+    url: https://city-screens.designinformatics.org
   
 
 status-website:
   cname: uptime.designinformatics.org
-  logoUrl: https://www.designinformatics.org/wp-content/themes/design-info/resources/assets/images/di_logo.png
+  logoUrl: https://designinformatics.org/wp-content/uploads/2025/12/DI_website_logo_x2-1.png
   name: Uptime
 
 # Upptime also supports notifications, assigning issues, and more
