@@ -4,17 +4,17 @@
     "url": "https://designinformatics.org",
     "icon": "https://icons.duckduckgo.com/ip3/designinformatics.org.ico",
     "slug": "design-informatics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "68.88%",
     "uptimeWeek": "84.40%",
     "uptimeMonth": "85.03%",
     "uptimeYear": "97.16%",
-    "time": 1688,
-    "timeDay": 856,
-    "timeWeek": 964,
-    "timeMonth": 938,
-    "timeYear": 1496,
+    "time": 1687,
+    "timeDay": 793,
+    "timeWeek": 949,
+    "timeMonth": 932,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2026-05-01": 160,
       "2026-05-02": 119,
@@ -110,7 +110,7 @@
     "time": 489,
     "timeDay": 489,
     "timeWeek": 472,
-    "timeMonth": 462,
+    "timeMonth": 463,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-10-08": 19,
@@ -180,7 +180,7 @@
     "time": 830,
     "timeDay": 633,
     "timeWeek": 727,
-    "timeMonth": 705,
+    "timeMonth": 701,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2025-10-08": 19,
@@ -196,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nft.designinformatics.org.ico",
     "slug": "a-token-gesture-di",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "95.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -227,7 +227,7 @@
     "time": 1021,
     "timeDay": 781,
     "timeWeek": 770,
-    "timeMonth": 788,
+    "timeMonth": 786,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-10-22": 21
@@ -247,7 +247,7 @@
     "time": 481,
     "timeDay": 349,
     "timeWeek": 414,
-    "timeMonth": 425,
+    "timeMonth": 424,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2025-10-08": 18,
@@ -285,11 +285,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.98%",
+    "uptimeYear": "39.00%",
     "time": 1159,
     "timeDay": 1006,
     "timeWeek": 1062,
-    "timeMonth": 1073,
+    "timeMonth": 1079,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2026-02-27": 1014,
@@ -513,8 +513,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -531,7 +530,7 @@
     "time": 468,
     "timeDay": 366,
     "timeWeek": 430,
-    "timeMonth": 434,
+    "timeMonth": 435,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2026-02-18": 193,
@@ -548,7 +547,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.98%",
+    "uptimeYear": "39.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -776,8 +775,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -794,7 +792,7 @@
     "time": 555,
     "timeDay": 594,
     "timeWeek": 455,
-    "timeMonth": 473,
+    "timeMonth": 471,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-10-08": 17,
@@ -817,7 +815,7 @@
     "time": 439,
     "timeDay": 422,
     "timeWeek": 413,
-    "timeMonth": 411,
+    "timeMonth": 408,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-08-26": 20,
@@ -896,11 +894,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.designinformatics.org.ico",
     "slug": "dsd-playbook",
     "status": "up",
-    "uptime": "93.55%",
+    "uptime": "93.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.55%",
+    "uptimeYear": "93.56%",
     "time": 1082,
     "timeDay": 744,
     "timeWeek": 497,
