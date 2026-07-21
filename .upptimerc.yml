@@ -5,6 +5,12 @@ repo: DI-upptime # The name of this repository
 sites:
   - name: Design Informatics
     url: https://designinformatics.org/health.txt
+    method: GET
+    headers:
+      - "Accept: text/plain,*/*;q=0.8"
+      - "User-Agent: upptime"
+    expectedStatusCodes:
+      - 200
   - name: Ripple Framework
     url: https://ripple.designinformatics.org
   - name: FIRE App
